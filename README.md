@@ -15,4 +15,4 @@ Painel estratégico de RH que apresenta indicadores como número de colaboradore
 Arquivo `.pbix` e prints estão disponíveis neste repositório.
 
 ## 🖼 Captura de Tela
-![RH Dashboard]()
+![RH Dashboard](Captura de tela 2025-07-03 131649.png)
